@@ -117,6 +117,7 @@
     text-decoration: none;
 
     transition: opacity .5s;
+    color: #101A24;
 }
 
 .footer__rights-link:hover {
