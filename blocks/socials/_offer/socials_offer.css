@@ -1,0 +1,12 @@
+.socials_offer {
+    margin-top: 103px;
+}
+
+.socials_offer::after {
+    content: " ";
+    width: 143px;
+    height: 1px;
+
+    background: #101A24;
+    opacity: 0.15;
+}

@@ -1,0 +1,18 @@
+.subtitle {
+    margin: 21px 0 171px;
+    padding: 0;
+    max-width: 376px;
+    min-height: 65px;
+
+    font-size: 16px;
+    line-height: 1.81;
+
+    color: #5C6574;
+
+    z-index: 2;
+}
+
+.subtitle_customer {
+    margin: 18px 0 123px;
+    min-height: 56px;
+}

@@ -1,0 +1,15 @@
+.offer__title {
+    max-width: 520px;
+    min-height: 144px;
+
+    margin: 0;
+    padding: 0;
+
+    font-family: 'David Libre';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 70px;
+    line-height: 1.03;
+
+    color: #101A24;
+}

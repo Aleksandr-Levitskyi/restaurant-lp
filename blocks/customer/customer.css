@@ -1,0 +1,12 @@
+.customer {
+    padding: 114px 0 398px;
+    background-color: #F3F4F4;
+    position: relative;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    overflow: hidden;
+}

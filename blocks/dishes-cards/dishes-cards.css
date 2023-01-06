@@ -1,0 +1,9 @@
+.dishes-cards {
+    max-width: calc(100% - 358px);
+    margin: 0 auto 156px;
+
+    display: flex;
+    gap: 30px;
+
+    background-color: #f3f3f4;
+}

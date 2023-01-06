@@ -1,0 +1,80 @@
+/* normalize and fonts */
+@import url(../vendor/normalize.css);
+@import url(../vendor/fonts.css);
+
+/* page */
+@import url(../blocks/page/page.css);
+
+@import url(../blocks/header/header.css);
+
+/* offer */
+@import url(../blocks/offer/offer.css);
+@import url(../blocks/offer/__cover/offer__cover.css);
+@import url(../blocks/offer/__main-img/offer__main-img.css);
+@import url(../blocks/offer/__main-img/_chef/offer__main-img_chef.css);
+@import url(../blocks/offer/__main-img/_welcome/offer__main-img_welcome.css);
+@import url(../blocks/offer/__minor-img/offer__minor-img.css);
+@import url(../blocks/offer/__subtitle/offer__subtitle.css);
+@import url(../blocks/offer/__subtitle/_chef/offer__subtitle_chef.css);
+@import url(../blocks/offer/__subtitle/_welcome/offer__subtitle_welcome.css);
+@import url(../blocks/offer/__title/offer__title.css);
+@import url(../blocks/offer/__title/_chef/offer__title_chef.css);
+@import url(../blocks/offer/__title/_welcome/offer__title_welcome.css);
+
+/* button */
+@import url(../blocks/button/button.css);
+@import url(../blocks/button/_header/button_header.css);
+@import url(../blocks/button/_table/button_table.css);
+
+/* buttons */
+@import url(../blocks/buttons/buttons.css);
+@import url(../blocks/buttons/_chef/buttons_chef.css);
+
+/* card */
+@import url(../blocks/card/card.css);
+@import url(../blocks/card/__cover/card__cover.css);
+@import url(../blocks/card/__description/card__description.css);
+@import url(../blocks/card/__image/card__image.css);
+@import url(../blocks/card/__price/card__price.css);
+@import url(../blocks/card/__title/card__title.css);
+
+@import url(../blocks/customer/customer.css);
+
+@import url(../blocks/dishes-cards/dishes-cards.css);
+
+@import url(../blocks/dishes/dishes.css);
+
+/* heading */
+@import url(../blocks/heading/heading.css);
+@import url(../blocks/heading/_customer/heading_customer.css);
+@import url(../blocks/heading/_dishes/heading_dishes.css);
+
+/* subtitle */
+@import url(../blocks/subtitle/subtitle.css);
+
+/* list */
+@import url(../blocks/list/list.css);
+
+/* review */
+@import url(../blocks/review/review.css);
+
+/* slider */
+@import url(../blocks/slider/slider.css);
+@import url(../blocks/slider/__point/slider__point.css);
+
+/* socials */
+@import url(../blocks/socials/socials.css);
+@import url(../blocks/socials/__circle/socials__circle.css);
+@import url(../blocks/socials/__icon/socials__icon.css);
+@import url(../blocks/socials/__link/socials_link.css);
+@import url(../blocks/socials/_offer/socials_offer.css);
+
+@import url(../blocks/subscribe/subscribe.css);
+
+@import url(../blocks/footer/footer.css);
+
+@import url(../blocks/chef/chef.css);
+
+@import url(../blocks/background-decoration/background-decoration.css);
+
+@import url(../blocks/content/content.css);

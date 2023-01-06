@@ -1,0 +1,13 @@
+.card__description {
+    max-width: calc(100% - 40px);
+    padding: 0;
+    margin: 21px 0 0;
+
+    font-size: 15px;
+    line-height: 1.73;
+    text-align: center;
+
+    color: #5C6574;
+
+
+}

@@ -1,0 +1,15 @@
+.slider__point {
+    width: 7px;
+    height: 7px;
+    border-radius: 50%;
+
+    background: #101A24;
+    opacity: 0.2;
+
+    cursor: pointer;
+}
+
+.slider__point:nth-of-type(2) {
+    background: #EA6D27;
+    opacity: 1;
+}

@@ -1,0 +1,10 @@
+.offer__main-img {
+    max-width: 516px;
+    height: 712px;
+
+    border: none;
+    border-top-left-radius: 100px;
+    border-bottom-left-radius: 25px;
+    border-top-right-radius: 25px;
+    border-bottom-right-radius: 100px;
+}

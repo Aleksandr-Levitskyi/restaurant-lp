@@ -1,0 +1,19 @@
+.card__price {
+    width: 54px;
+    height: 54px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    position: absolute;
+    top: 47px;
+    right: -15px;
+
+
+    border: none;
+    border-radius: 50%;
+
+    color: #fff;
+    background-color: black;
+}
