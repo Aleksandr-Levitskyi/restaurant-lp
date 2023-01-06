@@ -3,7 +3,7 @@ ___
 Простой лендинг для ресторана морепродуктов
 
 **Restaurant Landing Page**
-* [Ссылка на проект](https://aleksandr-levitskyi.github.io/russian-travel/)
+* [Ссылка на проект](https://aleksandr-levitskyi.github.io/restaurant-lp/)
 
 ## Технологии
 
