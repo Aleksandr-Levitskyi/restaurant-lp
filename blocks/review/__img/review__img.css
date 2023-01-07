@@ -1,0 +1,12 @@
+.review__img {
+    width: 109px;
+    height: 109px;
+
+    position: absolute;
+    top: -55px;
+
+    border-radius: 50%;
+
+    object-fit: contain;
+    object-position: left;
+}

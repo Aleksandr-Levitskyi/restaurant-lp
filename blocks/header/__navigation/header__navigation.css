@@ -1,0 +1,14 @@
+.header__navigation {
+    margin: 10px 192px 0 162px;
+    padding: 0;
+
+    display: flex;
+    gap: 45px;
+
+    list-style: none;
+    font-size: 16px;
+    line-height: 1.81;
+
+    color: #101A24;
+    z-index: 2;
+}

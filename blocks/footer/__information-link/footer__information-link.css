@@ -1,0 +1,7 @@
+.footer__information-link {
+    transition: opacity .5s;
+}
+
+.footer__information-link:hover {
+    opacity: .3;
+}

@@ -5,7 +5,20 @@
 /* page */
 @import url(../blocks/page/page.css);
 
+/* sections */
+@import url(../blocks/chef/chef.css);
+@import url(../blocks/customer/customer.css);
+@import url(../blocks/dishes-cards/dishes-cards.css);
+@import url(../blocks/dishes/dishes.css);
+@import url(../blocks/content/content.css);
+
+/* header */
 @import url(../blocks/header/header.css);
+@import url(../blocks/header/__link/header__link.css);
+@import url(../blocks/header/__menu/header__menu.css);
+@import url(../blocks/header/__nav-list/header__nav-list.css);
+@import url(../blocks/header/__navigation-link/header__navigation-link.css);
+@import url(../blocks/header/__navigation/header__navigation.css);
 
 /* offer */
 @import url(../blocks/offer/offer.css);
@@ -38,12 +51,6 @@
 @import url(../blocks/card/__price/card__price.css);
 @import url(../blocks/card/__title/card__title.css);
 
-@import url(../blocks/customer/customer.css);
-
-@import url(../blocks/dishes-cards/dishes-cards.css);
-
-@import url(../blocks/dishes/dishes.css);
-
 /* heading */
 @import url(../blocks/heading/heading.css);
 @import url(../blocks/heading/_customer/heading_customer.css);
@@ -51,12 +58,22 @@
 
 /* subtitle */
 @import url(../blocks/subtitle/subtitle.css);
+@import url(../blocks/subtitle/_customer/subtitle_customer.css);
 
 /* list */
 @import url(../blocks/list/list.css);
+@import url(../blocks/list/__icon/list__icon.css);
+@import url(../blocks/list/__item/list__item.css);
+@import url(../blocks/list/__subtitle/list__subtitle.css);
 
 /* review */
 @import url(../blocks/review/review.css);
+@import url(../blocks/review/__img/review__img.css);
+@import url(../blocks/review/__name/review__name.css);
+@import url(../blocks/review/__profession/review__profession.css);
+@import url(../blocks/review/__rating/review__rating.css);
+@import url(../blocks/review/__review/review__review.css);
+@import url(../blocks/review/_hidden/review_hidden.css);
 
 /* slider */
 @import url(../blocks/slider/slider.css);
@@ -69,12 +86,33 @@
 @import url(../blocks/socials/__link/socials_link.css);
 @import url(../blocks/socials/_offer/socials_offer.css);
 
+/* subscribe */
 @import url(../blocks/subscribe/subscribe.css);
+@import url(../blocks/subscribe/__button/subscribe__button.css);
+@import url(../blocks/subscribe/__email/subscribe__email.css);
+@import url(../blocks/subscribe/__form/subscribe__form.css);
+@import url(../blocks/subscribe/__title/subscribe__title.css);
 
+/* footer */
 @import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__column/footer__column.css);
+@import url(../blocks/footer/__columns/footer__columns.css);
+@import url(../blocks/footer/__copyright/footer__copyright.css);
+@import url(../blocks/footer/__hours/footer__hours.css);
+@import url(../blocks/footer/__information-link/footer__information-link.css);
+@import url(../blocks/footer/__information/footer__information.css);
+@import url(../blocks/footer/__line/footer__line.css);
+@import url(../blocks/footer/__navigation-link/footer__navigation-link.css);
+@import url(../blocks/footer/__navigation/footer__navigation.css);
+@import url(../blocks/footer/__privacy/footer__privacy.css);
+@import url(../blocks/footer/__rights-link/footer__rights-link.css);
+@import url(../blocks/footer/__rights/footer__rights.css);
+@import url(../blocks/footer/__title/footer__title.css);
 
-@import url(../blocks/chef/chef.css);
-
+/* background decoration */
 @import url(../blocks/background-decoration/background-decoration.css);
-
-@import url(../blocks/content/content.css);
+@import url(../blocks/background-decoration/_chef/background-decoration_chef.css);
+@import url(../blocks/background-decoration/_customer/background-decoration_customer.css);
+@import url(../blocks/background-decoration/_dishes/background-decoration_dishes.css);
+@import url(../blocks/background-decoration/_footer/background-decoration_footer.css);
+@import url(../blocks/background-decoration/_header/background-decoration_header.css);

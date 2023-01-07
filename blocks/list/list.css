@@ -9,32 +9,3 @@
 
     list-style: none;
 }
-
-.list__item {
-    display: flex;
-    align-items: center;
-
-    margin-bottom: 33px;
-}
-
-.list__icon {
-    width: 24px;
-    height: 24px;
-    margin-right: 10px;
-
-    border-radius: 50%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-
-    color: #fff;
-    background-color: #EA6D27;
-}
-
-.list__subtitle {
-    max-width: 259px;
-    min-height: 51px;
-
-    margin: 0;
-    padding: 0;
-}

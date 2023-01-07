@@ -1,0 +1,12 @@
+.subscribe__form {
+    width: 667px;
+    height: 80px;
+
+    padding: 0 16px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    background: #FFFFFF;
+    border-radius: 20px;
+}

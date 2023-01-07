@@ -1,0 +1,21 @@
+.subscribe__email {
+    height: 78px;
+    width: 516px;
+    box-sizing: border-box;
+
+    padding: 0 16px 0 0;
+
+    border: none;
+}
+
+.subscribe__email::placeholder {
+    font-size: 18px;
+    line-height: 22px;
+
+    color: #101A24;
+    opacity: 0.5;
+}
+
+.subscribe__email:focus {
+    outline: none;
+}

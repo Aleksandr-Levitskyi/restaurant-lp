@@ -1,0 +1,10 @@
+.header__navigation-link {
+    text-decoration: none;
+
+    transition: opacity .3s;
+    color: #101A24;
+}
+
+.header__navigation-link:hover {
+    opacity: .5;
+}

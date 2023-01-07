@@ -1,0 +1,11 @@
+.footer__title {
+    padding: 0;
+    margin: 17px 0 0;
+
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 3.33;
+    text-transform: uppercase;
+
+    color: #101A24;
+}

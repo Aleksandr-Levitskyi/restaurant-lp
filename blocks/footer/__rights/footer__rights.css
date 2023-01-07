@@ -1,0 +1,14 @@
+.footer__rights {
+    display: flex;
+
+    padding: 0;
+    margin: 0;
+
+    list-style: none;
+    gap: 25px;
+
+    font-size: 16px;
+    line-height: 1.81;
+
+    z-index: 2;
+}
